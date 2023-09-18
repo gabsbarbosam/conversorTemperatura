@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author: GABRIELA
+      * Author: GABRIELA BARBOSA
       * Date: 20/08/2023
       * Purpose: CONVERSOR DE TEMPERATURA
       * Tectonics: cobc
